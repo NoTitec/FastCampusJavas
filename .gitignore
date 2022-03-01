@@ -1,0 +1,13 @@
+# Project exclude paths
+/intellijguide/.gradle/
+/Javaprograming/.gradle/
+/Javaprograming/build/
+/Javaprograming/out/production/classes/
+/Part2/.gradle/
+/Part2-1/.gradle/
+/Part2-2/.gradle/
+/Part3/.gradle/
+/Part4-1/.gradle/
+/Part4-2/.gradle/
+/Part5-1/.gradle/
+/Part5-2/.gradle/
