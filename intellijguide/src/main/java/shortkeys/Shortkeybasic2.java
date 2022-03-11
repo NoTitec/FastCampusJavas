@@ -9,7 +9,7 @@ public class Shortkeybasic2 implements Sampleinterface {
 
     //psvm
 
-    //getter,setter 등 코드생성 alt+ins
+    //getter,setter 등 코드생성 alt+ins lombock있을땐 굳이할필요없음
     private String name;
     private String content;
 
@@ -50,7 +50,7 @@ public class Shortkeybasic2 implements Sampleinterface {
          */
 
         //run anything
-        //ctrl2번
+        //ctrl 2번
         //프로그램 종료 ctrl+f2
         //현재줄복사 ctrl+d
         //현재줄 삭제 ctrl+y
