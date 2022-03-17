@@ -44,19 +44,25 @@ public class Shortkeybasic2 implements Sampleinterface {
 
         //구문완성 shift+ctrl+enter
 
-        //대체하기
+        //대체하기 특정 단어찾아서 바꾸는 기능
         /* 파일내 ctrl+R
             패키지내 ctrl+shift+R
          */
 
         //run anything
         //ctrl2번
+
         //프로그램 종료 ctrl+f2
+
         //현재줄복사 ctrl+d
+
         //현재줄 삭제 ctrl+y
+
         //파라미터정보 ctrl+p
+
         //메소드 quick definition 메소드 선언부 미리보기
         //ctrl+shift+i
+
         //설명 미리보기
         //ctrl+q
     }
