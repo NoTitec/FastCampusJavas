@@ -44,7 +44,7 @@ public class Shortkeybasic2 implements Sampleinterface {
 
         //구문완성 shift+ctrl+enter
 
-        //대체하기 특정 단어찾아서 바꾸는 기능
+        //대체하기
         /* 파일내 ctrl+R
             패키지내 ctrl+shift+R
          */
