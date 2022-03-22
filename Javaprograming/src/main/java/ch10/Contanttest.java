@@ -1,6 +1,6 @@
 package ch10;
 
-public class Contanttest {
+public class Contanttest {//형변환과 상수
     public static void main(String[] args) {
         final var MAX_NUM=100;
         final int MIN_NUM;
