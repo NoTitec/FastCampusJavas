@@ -10,6 +10,11 @@ public class Employee {
         serialNum++;
         employeeId=serialNum;
     }
+
+    public static int getSerialNum() {
+        return serialNum;
+    }
+
     public int getEmployeeId() {
         return employeeId;
     }
