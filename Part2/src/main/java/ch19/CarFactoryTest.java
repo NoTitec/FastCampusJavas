@@ -8,6 +8,7 @@ public class CarFactoryTest {
 
         System.out.println(mySonata.getCarNum());     //10001 출력
         System.out.println(yourSonata.getCarNum());   //10002 출력
+        //?
     }
 
 }
